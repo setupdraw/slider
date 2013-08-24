@@ -1,5 +1,5 @@
 <h1>Setupdraw jQuery Slider Documentation - Version 1.0</h1>
-A clean and lightweight setupdraw take on the jQuery slider.
+A clean and lightweight setupdraw take on the jQuery slider.<br />
 Demo: http://setupdraw.com/projects/slider
 
 <h2>Important source files</h2>
