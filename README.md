@@ -11,7 +11,7 @@ index.html 	- HTML layout
 
 1. Copy the HTML into your web page from the index.html file.
 
-2. Copy '<script src="js/slider.js"></script>' into the <head> section of your web page.
+2. Copy ```<script src="js/slider.js"></script>``` into the <head> section of your web page.
 
 3. Copy the css/style.css content into your CSS file.
 
