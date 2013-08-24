@@ -15,6 +15,6 @@ index.html 	- HTML layout
 
 3. Copy the css/style.css content into your CSS file.
 
-4. Copy the image folder, replacing the slider images wit your own. Retain the naming format.
+4. Copy the image folder, replacing the slider images with your own. Retain the naming format.
 
 5. Change the slider details in info variable - js/slider.js line 9 to 25.
