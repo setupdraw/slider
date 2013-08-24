@@ -1,0 +1,14 @@
+html,
+body {
+	background:#eee;
+	height:100%;
+}
+
+#container {
+	background:#fff;
+	border-top:30px solid #888;
+	margin:30px auto;
+	height:100%;
+	width:940px;
+	padding:20px;
+}
