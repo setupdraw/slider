@@ -12,3 +12,17 @@ body {
 	width:940px;
 	padding:20px;
 }
+
+#slider-wrapper {
+	height:400px;
+}
+
+.home-link {
+	font-family:arial;
+	color:#aaa;
+	text-align:center;
+	margin: 20px 0;
+	font-size:12px;
+	width:100%;
+	display:block;
+}
