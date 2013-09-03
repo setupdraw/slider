@@ -1,7 +1,7 @@
 <h1>Setupdraw jQuery Slider Documentation - Version 1.0</h1>
 A clean and lightweight setupdraw take on the jQuery slider.<br />
-The unminifed CSS and JS weigh in at a tiny combined 6KB<br />
-Useful as a starting point for lightweight full width slides<br />
+The unminifed CSS and JS weigh in at a tiny combined 6KB.<br />
+Useful as a starting point for lightweight full width slides.<br />
 Demo: http://setupdraw.com/projects/slider
 
 <h2>Important source files</h2>
